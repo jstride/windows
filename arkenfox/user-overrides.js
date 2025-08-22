@@ -7,4 +7,4 @@ user_pref("browser.urlbar.suggest.engines", true);
 user_pref("identity.fxaccounts.enabled", false); // Firefox Accounts & Sync [FF60+]
 user_pref("signon.rememberSignons", false); // Don't Save Passwords
 user_pref("extensions.formautofill.addresses.enabled", false); // [FF55+]
-user_pref("extensions.formautofill.creditCards.enabled", false); // [FF56+]
+user_pref("extensions.formautofill.creditCards.enabled", false); 
