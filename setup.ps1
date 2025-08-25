@@ -4,7 +4,8 @@
 winget source add --name msstore --arg https://storeedgefd.dsx.mp.microsoft.com/v9.0
 
 # Install my applications, use the windows store where possible
-winget install Proton.ProtonDrive Proton.ProtonMail Proton.ProtonPass Proton.ProtonVPN OpenWhisperSystems.Signal 9NKSQGP7F2NH XP8JNQFBQH6PVF 9NZVDKPMR9RD XP9KHM4BK9FZ7Q 9PD9BHGLFC7H 9PNSJCLXDZ0V 9PFHDD62MXS1 XP89DCGQ3K6VLD 9PFHDD62MXS1
+winget install Logitech.OptionsPlus Proton.ProtonDrive Proton.ProtonMail Proton.ProtonPass Proton.ProtonVPN OpenWhisperSystems.Signal --source winget
+winget install 9NKSQGP7F2NH XP8JNQFBQH6PVF 9NZVDKPMR9RD XP9KHM4BK9FZ7Q 9PD9BHGLFC7H 9PNSJCLXDZ0V 9PFHDD62MXS1 XP89DCGQ3K6VLD 9PFHDD62MXS1
 9WZDNCRFJ4Q7 # LinkedIn
 
 # Set up Windows settings
