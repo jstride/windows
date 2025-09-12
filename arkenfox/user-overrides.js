@@ -8,3 +8,6 @@ user_pref("identity.fxaccounts.enabled", false); // Firefox Accounts & Sync [FF6
 user_pref("signon.rememberSignons", false); // Don't Save Passwords
 user_pref("extensions.formautofill.addresses.enabled", false); // [FF55+]
 user_pref("extensions.formautofill.creditCards.enabled", false); 
+user_pref("sidebar.revamp", true);
+user_pref("sidebar.verticalTabs", true);
+user_pref("sidebar.expandOnHover", true);
