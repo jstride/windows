@@ -1,0 +1,49 @@
+{
+  "custom-layouts": [
+    {
+      "uuid": "{E5CC4B57-0D03-4F22-8227-4B88301CB672}",
+      "name": "Focus",
+      "type": "canvas",
+      "info": {
+        "ref-width": 3440,
+        "ref-height": 1392,
+        "zones": [
+          {
+            "X": 688,
+            "Y": 50,
+            "width": 2064,
+            "height": 1292
+          }
+        ],
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "uuid": "{9EB9B9C0-76B4-4A2F-B3DA-41367AE78281}",
+      "name": "Communications",
+      "type": "grid",
+      "info": {
+        "rows": 1,
+        "columns": 3,
+        "rows-percentage": [
+          10000
+        ],
+        "columns-percentage": [
+          1875,
+          6250,
+          1875
+        ],
+        "cell-child-map": [
+          [
+            0,
+            1,
+            2
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 50,
+        "sensitivity-radius": 20
+      }
+    }
+  ]
+}
