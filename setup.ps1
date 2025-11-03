@@ -4,7 +4,7 @@
 winget source add --name msstore --arg https://storeedgefd.dsx.mp.microsoft.com/v9.0
 
 # Install my applications, use the windows store where possible
-winget install Logitech.OptionsPlus Proton.ProtonDrive Proton.ProtonMail Proton.ProtonPass Proton.ProtonVPN OpenWhisperSystems.Signal Mozilla.Thunderbird --source winget
+winget install Logitech.OptionsPlus Proton.ProtonDrive Proton.ProtonMail Proton.ProtonPass Proton.ProtonVPN OpenWhisperSystems.Signal Mozilla.Thunderbird DBBrowserForSQLite.DBBrowserForSQLite --source winget
 
 # 9NKSQGP7F2NH - WhatsApp
 # XP8JNQFBQH6PVF - Perplexity
